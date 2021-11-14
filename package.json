@@ -1,0 +1,10 @@
+{
+  "name": "netlify-functions",
+  "author": "Maciek Sitkowski <msitkowski94@gmail.com> (https://github.com/sitek94)",
+  "scripts": {
+    "dev": "netlify dev"
+  },
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0"
+  }
+}

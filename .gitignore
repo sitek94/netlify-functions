@@ -1,0 +1,12 @@
+# NPM Dependencies
+node_modules
+
+# Environment Variables
+.env
+
+# IDE
+.vscode
+.idea
+
+# Netlify
+.netlify
